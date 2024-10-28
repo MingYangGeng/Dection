@@ -4,17 +4,6 @@ Apple flower detection and positioning is significant for mechanical and chemica
 
 2.What we do?
 An automatic DPC algorithm based on YOLOv8 to detect apple flowers was presented in this article. Additionally, a precise discrimination model was devised to ascertain the specific flower cluster and central flower to which each individual flower belongs. This approach aimed to provide a reference for the detection of apple central and peripheral flowers, thereby promoting technical support for intelligent flower thinning.
+
 3.Why we do?
-（1）Farming aspect
-① Cows in large-scale dairy farms are conceived through artificial insemination, however, the estrus period of cows is very short, about more than 20 days of estrus once, each time only lasts 4-26 hours, during which mounting behavior is the most significant external manifestation.
-② Traditional manual inspections are labor-intensive, highly subjective, and low accuracy, and can no longer meet the requirements of modern farming.
-（2）Technical aspect
-③ Computer vision-based methods can minimize the stress caused by contact devices on cows.
-④ Existing computer vision-based methods can only detect the mounting behavior of cows, but cannot locate individual estrus cows and lack an early warning mechanism.
-
-4. What we accomplished?
-(1) An estrus cow detection and tracking algorithm YOLO-TransT was proposed by integrating the improved YOLOv8n and TransT models.
-(2) By introducing Context Augmentation Module (CAM) and Squeeze-and-Excitation (SE) modules into the YOLOv8n model, integrating scene-related information of estrus cow and mounting behavior, discarding redundant features, to achieve high detection accuracy.
-(3) A dairy cow estrus monitoring and warning system was designed based on the YOLO-TransT model, which could effectively meet the dairy cow estrus monitoring needs of large-scale farms and improve the level of refined management.
-
-5.Results
+Although significant progress has been made in flower identification, the real challenge in apple tree flower thinning is how to automatically generate a scientific and rational flower thinning strategy. Therefore, the new direction of deep learning in the field of apple flower thinning should be to move towards an intelligent and automated flower thinning strategy generation system. At present, although there are not a few research on the detection of flowers, the research on apple flower detection based on deep learning is still in the development stage. The main reason is that apple flowers are in a complex environment with light changes and large differences in growth conditions. The shape and color of apple flowers are diverse, the distribution is dense and compact, and there are often mutual occlusion between different flowers in the same flower cluster. Therefore, the detection of apple central flowers and peripheral flowers is particularly important. There are some studies on the detection of apple flowers, but most of them are for the detection of inflorescences or the detection of individual apple flowers.relatively few have focused on discriminating flower clusters and detecting central and peripheral flowers. To address the aforementioned issues, this study is to explore an efficient and accurate method for the detection of apple center flowers and peripheral flowers. The YOLOv8 algorithm has the advantages of fast speed, high accuracy and strong interpretability, and DPC has strong processing power advantages for noise and outliers, combine the advantages of the two, so as to achieve accurate and rapid detection of apple flowers and accurate discrimination of flower clusters. 
