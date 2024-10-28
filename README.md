@@ -15,4 +15,4 @@ Although significant progress has been made in flower identification, the real c
 (4) The proposed method provided reference for mechanical and chemical thinning of flowers.
 
 5.Results
-![image]()
+![image](https://github.com/yy521126/Dection/raw/分支名master/刚你新建的图片文件夹名称/***.png或者***.jpg)
