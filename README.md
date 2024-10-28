@@ -17,9 +17,6 @@ Although significant progress has been made in flower identification, the real c
 5.Results
 ![image](https://github.com/yy521126/Dection/blob/main/%E5%9B%BE%E7%89%871.png)
 ![image](https://github.com/yy521126/Dection/blob/main/图片2.png)
-![image](https://github.com/yy521126/Dection/blob/main/图片3.png)
-![image](https://github.com/yy521126/Dection/blob/main/图片4.png)
-![image](https://github.com/yy521126/Dection/blob/main/图片5.png)
 ![image](https://github.com/yy521126/Dection/blob/main/图片6.png)
 6. Data
 To find the dataset used in this study, please make sure all files are downloaded from HERE:
