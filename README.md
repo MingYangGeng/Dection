@@ -13,3 +13,6 @@ Although significant progress has been made in flower identification, the real c
 (2) An improved Single-Layer DPC algorithm was used to automatically determine different clusters.
 (3) A Double-Layer DPC algorithm was applied to rectify any offsets of centres of clusters.
 (4) The proposed method provided reference for mechanical and chemical thinning of flowers.
+
+5.Results
+![image]()
